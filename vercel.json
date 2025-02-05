@@ -12,7 +12,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://vercel.com/naovalfadilahs-projects",
+        "APP_URL": "https://your.url.from.vercel.app",
         "APP_KEY": "N6w8vd03B9s5cVrO3BRX5LZT",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
@@ -27,3 +27,4 @@
         "SESSION_DRIVER": "cookie"
     }
 }
+
